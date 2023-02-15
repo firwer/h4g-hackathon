@@ -15,6 +15,10 @@ The Asessors will be people with mild-minor disabilities. These assessors will l
 
 The Corporations refer to companies keen on improving the accessibility and inclusivity of their websites. These assessors will look out for presence of accessibility features/tools, adjustable text size and high-contrast mode, clear and simple language)
 
+## Tech Stack
+Frontend - Next.JS, Typescript, MUI UI Kit, CSS
+Backend - Firestore, Google Cloud Functions, Node.JS, Express
+
 ## Slide deck:
 https://docs.google.com/presentation/d/1K3HpKcbNAiW8EnD295R0frCV5i0T0JFR8OszeE--I-I/edit?usp=sharing
 
@@ -41,7 +45,7 @@ https://www.figma.com/file/HzpAeG5Q0AyqRLMYiA8VTn/Hack4Good-InclusionLabs-Design
 3. Go to localhost:3000/ on your browser once server is up
 
 ## Project Contributors:
-- Poh Wei Pin (@firwer)
-- Irving Alexander de Boer (@irving11119)
-- Thomas Joseph Lee Alba (@thomasjlalba)
-- Tan Zi Xi (@tzixi)
+- Poh Wei Pin (@firwer) (Backend + Frontend)
+- Irving Alexander de Boer (@irving11119) (Frontend + Automated Testing (Axe-Core))
+- Thomas Joseph Lee Alba (@thomasjlalba) (Frontend)
+- Tan Zi Xi (@tzixi) (Frontend)
